@@ -4,17 +4,17 @@ criaCartao(
    'É um espaço na memória para armazenar dados que podem mudar durante a execução do programa.'
 )
 
- criaCartao(
-    'Programação',
-    'O que significa "loop" em programação?',
-    'É uma estrutura que executa um bloco de código repetidamente enquanto uma condição é verdadeira.'
- )
+criaCartao(
+   'Programação',
+   'O que significa "loop" em programação?',
+   'É uma estrutura que executa um bloco de código repetidamente enquanto uma condição é verdadeira.'
+)
 
  criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Um bloco de código reutilizável que realiza uma tarefa específica.'
- )
+   'Programação',
+   'O que é uma função?',
+   'Um bloco de código reutilizável que realiza uma tarefa específica.'
+)
 
  criaCartao(
    'Programação',
@@ -24,10 +24,8 @@ criaCartao(
 
 criaCartao(
    'Programação',
-   'Para que serve o comando "if"?,
-   'Para executar um bloco de código se uma condição for verdadeira.
-
-'
+   'Para que serve o comando "if"?',
+   'Para executar um bloco de código se uma condição for verdadeira.'
 )
 
 criaCartao(
@@ -51,19 +49,18 @@ criaCartao(
 criaCartao(
    'Programação',
    'O que é um algoritmo?',
-   'Um conjunto de instruções passo a passo para resolver um problema ou realizar uma tarefa. '
+   'Um conjunto de instruções passo a passo para resolver um problema ou realizar uma tarefa.'
 )
 
 criaCartao(
    'Programação',
    'O que é uma linguagem de programação?',
-   ' É um conjunto de regras e sintaxes usadas para escrever programas que o computador possa entender.'
+   'É um conjunto de regras e sintaxes usadas para escrever programas que o computador possa entender.'
 )
 
 criaCartao(
    'Programação',
-   'Para que serve um loop "for"?
-',
+   'Para que serve um loop "for"?',
    'Para iterar sobre uma sequência (como uma lista ou intervalo) por um número definido de vezes.'
 )
 
