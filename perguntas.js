@@ -1,71 +1,74 @@
 criaCartao(
    'Programação',
-   'O que é Python?',
-   'O Python é uma linguagem de programação'
+   'O que é uma variável em programação?',
+   'É um espaço na memória para armazenar dados que podem mudar durante a execução do programa.'
 )
+
+ criaCartao(
+    'Programação',
+    'O que significa "loop" em programação?',
+    'É uma estrutura que executa um bloco de código repetidamente enquanto uma condição é verdadeira.'
+ )
 
  criaCartao(
     'Programação',
     'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Um bloco de código reutilizável que realiza uma tarefa específica.'
  )
 
  criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação'
- )
-
- criaCartao(
-   'Lingua Estrangeira',
-   'Como se diz estou com fome em Italiano?',
-   'Estou com fome em italiano é Ho fame'
+   'Programação',
+   'O que é uma condição em programação?',
+   'Uma instrução que permite executar um código somente se uma expressão lógica for verdadeira.'
 )
 
 criaCartao(
-   'Lingua Estrangeira',
-   'Como se diz qual seu nome em Francês?',
-   'Qual seu nome em Francês e quel est ton nom'
+   'Programação',
+   'Para que serve o comando "if"?,
+   'Para executar um bloco de código se uma condição for verdadeira.
+
+'
 )
 
 criaCartao(
-   'Lingua Estrangeira',
-   'Como se diz oi em Inglês?',
-   'Oi em Inglês é Hi (RAI)'
+   'Programação',
+   'O que é uma lista ou array?',
+   'Uma coleção ordenada de elementos armazenados em uma única variável.'
 )
 
 criaCartao(
-   'Geografia',
-   'Qual a capital da França?',
-   'A capital da França é Paris'
+   'Programação',
+   'O que é um bug?',
+   'Um erro ou falha no código que causa um comportamento inesperado no programa.'
 )
 
 criaCartao(
-   'Geografia',
-   'Qual a capital do Japão?',
-   'A capital do Japão é Tóquio'
+   'Programação',
+   'O que significa "debugging"?',
+   'É o processo de encontrar e corrigir erros no código.'
 )
 
 criaCartao(
-   'Geografia',
-   'Qual a capital da Austrália?',
-   'A capital da Austrália é Canberra '
+   'Programação',
+   'O que é um algoritmo?',
+   'Um conjunto de instruções passo a passo para resolver um problema ou realizar uma tarefa. '
 )
 
 criaCartao(
-   'Matemática',
-   'Qual a raiz quadrada de 144',
-   'A raiz quadrada de 144 é 12'
+   'Programação',
+   'O que é uma linguagem de programação?',
+   ' É um conjunto de regras e sintaxes usadas para escrever programas que o computador possa entender.'
 )
 
 criaCartao(
-   'Matemática',
-   'Quanto é 250x460?',
-   '115,000'
+   'Programação',
+   'Para que serve um loop "for"?
+',
+   'Para iterar sobre uma sequência (como uma lista ou intervalo) por um número definido de vezes.'
 )
 
 criaCartao(
-   'Matemática',
-   'O que é um número primo?',
-   'Um número primo é um número natural que é maior que 1 e possui apenas dois divisores: 1 e ele próprio. Por exemplo, 2, 3, 5, 7, 11 são números primos.'
+   'Programação',
+   'O que é "compilação"?',
+   'É o processo de traduzir o código-fonte para código de máquina executável pelo computador.'
 )
